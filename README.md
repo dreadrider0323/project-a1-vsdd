@@ -7,7 +7,7 @@ Claude Skill・オーケストレーション実装です。
 ## ディレクトリ構成
 
 ```
-vsdd/
+project-a1-vsdd/
 ├── README.md
 ├── CLAUDE.md                         # Claude Code 向けコンテキスト定義
 ├── skills/                           # Claude Skills（各フェーズの専門知識）
